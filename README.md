@@ -19,21 +19,33 @@ This project has 4 different modules .They are listed below:
 **Technologies Used**
 
 Python 3.9
+
 Algorithms: Naïve Bayes, Random Forest, KNN ,RNN
+
 Tools: Visual Studio Code
 
 **Project Modules**
+
 Data Collection: Collect and preprocess data for training.
+
 Model Training: Train machine learning models for analysis and prediction.
+
 Feature Engineering: Extract key features to improve accuracy.
+
 User Interface: Allow users to upload images, enter details, and get predictions.
 
 **Usage**
+
 Register or log in.
+
 Upload an image of a crop or enter environmental parameters.
+
 Receive predictions for crop yield, soil analysis, or disease detection.
 
 **Future Enhancements**
+
 Incorporate IoT-enabled sensors for real-time data collection.
+
 Use NLP-based chatbots for farmer interaction.
+
 Develop a mobile application for better accessibility.
